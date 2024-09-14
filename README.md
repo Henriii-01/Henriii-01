@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henriii-01
 - 👀 I’m interested in coding Discord Bots
-- 🌱 I’m currently learning C & C#
-- 📫 Reach me: Discord: Henriii#9570
+- 🌱 I’m currently learning Python, Kotlin & C#
+<!--- - 📫 Reach me: --->
 
 <!---
 Henriii-01/Henriii-01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
