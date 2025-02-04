@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henriii-01
 
-- 🌱 I’m currently learning Python, Kotlin & C#
+<!--- - 🌱 I’m currently learning Python & C# --->
 <!--- - 📫 Reach me: --->
 
 <!---
