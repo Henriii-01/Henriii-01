@@ -8,10 +8,10 @@ I‘m currently working on a fitness app for iOS and Android.<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Henriii-01&theme=dark&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Henriii-01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 <!-- ![](https://github-profile-trophy.vercel.app/?username=Henriii-01&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
----
+<!-- ---
 <!-- [![](https://visitcount.itsvg.in/api?id=Henriii-01&icon=6&color=2)](https://visitcount.itsvg.in) -->
 
 <!-- I have created this with GPRM ( https://gprm.itsvg.in ) -->
